@@ -21,9 +21,8 @@ author: Szarvas Jácint
 
 navbar-links:
   Rólam: "aboutme"
-  Oktatás:
+  Oktatás: "oktatas"
   Kutatás: "kutatas"
-  Kapcsolat:
 
 ################
 # --- Logo --- #
