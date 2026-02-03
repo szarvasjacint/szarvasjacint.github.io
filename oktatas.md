@@ -1,10 +1,6 @@
 ---
 layout: page
 title: Oktatás
----
----
-layout: page
-title: Oktatás
 subtitle: Matek és Fizika korrepetálás középiskolásoknak
 ---
 
