@@ -22,9 +22,8 @@ author: Szarvas Jácint
 navbar-links:
   Rólam: "aboutme"
   Oktatás:
-  Kutatás:
+  Kutatás: "kutatas"
   Kapcsolat:
-  Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
